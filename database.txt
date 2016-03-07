@@ -1,0 +1,7 @@
+PostgreSQL 9.2 database added.  Please make note of these credentials:
+
+   Root User: adminlyxn325
+   Root Password: LANslUl2cjZ3
+   Database Name: icons
+
+Connection URL: postgresql://$OPENSHIFT_POSTGRESQL_DB_HOST:$OPENSHIFT_POSTGRESQL_DB_PORT
